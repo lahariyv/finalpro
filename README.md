@@ -1,4 +1,5 @@
 ## In this website named "Edu School" people can access different courses to learn.People can access courses like meditation class,educational programs based on their interests.
+## Description:
 ## I have created a website that provides people a number of courses according to their interests .In this website there are many courses like Educational Programs, Best Meditation Classes, Games Program in a Week, Best Music Classes, Labs Programs etc. It is basically an e-learning platform. Especially kids can have a joy by learning in this website.
 
 ## MY WEBSITE LINK: https://orange-tree-06d615c10.1.azurestaticapps.net/
