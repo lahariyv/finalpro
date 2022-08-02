@@ -11,3 +11,7 @@
 ![Edu School - Education Category Bootstrap Responsive Website Template - Courses _ W3Layouts - Google Chrome 02-08-2022 23_17_43](https://user-images.githubusercontent.com/109957932/182440977-e06f4070-d0ea-487f-82cf-edd4dae19f67.png)
 
 ![Edu School - Education Category Bootstrap Responsive Website Template - Courses _ W3Layouts - Google Chrome 02-08-2022 23_22_09](https://user-images.githubusercontent.com/109957932/182441775-c22f1ad8-ee0f-4e37-9d17-5ab023df1fb4.png)
+## Github Repsitory:
+![Edu School - Education Category Bootstrap Responsive Website Template - Courses _ W3Layouts - Google Chrome 02-08-2022 23_23_25](https://user-images.githubusercontent.com/109957932/182442113-895f16ec-f0e3-41e4-9029-b41df5edaa14.png)
+## Project deployment on azure service:
+![Edu School - Education Category Bootstrap Responsive Website Template - Courses _ W3Layouts - Google Chrome 02-08-2022 23_23_58](https://user-images.githubusercontent.com/109957932/182442153-4b2b7897-e858-44c2-aa63-be89dce47d2f.png)
